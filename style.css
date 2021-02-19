@@ -1,0 +1,27 @@
+.s1{
+  font-family: cursive;
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: 70px;
+  color: #00f;
+}
+
+.s2{
+  font-family: cursive;
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: 45px;
+  color: #0f0;
+}
+
+.s3{
+  font-family: cursive;
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: 45px;
+  color: #00f;
+}
+
+p{
+  font-size: 45px;
+}
